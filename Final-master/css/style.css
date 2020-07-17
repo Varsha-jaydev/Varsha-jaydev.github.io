@@ -679,17 +679,9 @@ color: #2c3e50;
 width:auto;
 }
 .featureref {
- border: 1px white;
-border-radius:5px;
-  outline: 0;
-  display: inline-block;
-  padding: 8px;
-  color: white;
-  background-color: #2D2E2E;
-  text-align: center;
-  cursor: pointer;
-  width: 100%;
-  font-size: 18px;
+
+  background-color: #DEE0E0;
+
 }
 
 
