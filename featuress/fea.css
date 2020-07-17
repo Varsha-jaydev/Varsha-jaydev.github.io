@@ -15,10 +15,10 @@ text-align:center;
 
 @media only screen and (min-width:992px) and (max-width:1199px){
   .features-card{
-    width:30%;}
+height:230px;}
 }
 @media only screen and (min-width:768px) and (max-width:991px){
-.features-card{ width:50%;}
+.features-card{ width:80%;}
 }
 @media screen and (max-width:767px){
 .features-card{
