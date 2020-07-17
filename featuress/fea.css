@@ -13,8 +13,11 @@ text-align:center;
   overflow:hidden;
 }
 
-.features-card1{
-position:relative;}
+@media screen and (max-width: 992px) {
+  .features-card {
+    width: 50%;
+  }
+}
 
 @media screen and (max-width:800px){
 .features-card1,.features-card2,.features-card3{
